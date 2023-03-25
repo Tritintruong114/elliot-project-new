@@ -4,7 +4,7 @@ import NewComponent from "../chart/NewComponent";
 
 function Newsletter() {
   const handleClick = () => {
-    console.log("ABC");
+    // console.log("ABC");
   };
   return (
     <div className="flex flex-col items-center justify-center h-full w-full">
